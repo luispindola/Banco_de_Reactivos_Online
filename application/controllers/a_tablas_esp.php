@@ -16,7 +16,7 @@ class A_tablas_esp  extends CI_Controller
                 //echo("name: ".$_FILES["archivo"]["name"]);
                 //echo("</br>");
                 //echo("size: ".$_FILES["archivo"]["size"]);
-                //echo("</br>");
+                //echo("</br>");sdfsadf
                 if (strtoupper(substr($_FILES["archivo"]["name"],-3)) == 'XLS')
                 {   
                     move_uploaded_file($_FILES["archivo"]["tmp_name"], "img/temp/temp.xls");
