@@ -12,7 +12,7 @@ class A_tablas_esp  extends CI_Controller
             if (isset($_POST['ok']))
             {//Se preciono el boton de cargar
                 //echo("type: ".$_FILES["archivo"]["type"]);
-                //echo("</br>");
+                //echo("</br>"); jhddfgff
                 //echo("name: ".$_FILES["archivo"]["name"]);
                 //echo("</br>");
                 //echo("size: ".$_FILES["archivo"]["size"]);
