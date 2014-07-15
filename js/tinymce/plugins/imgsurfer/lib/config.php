@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 	// FICHERO DE CONFIGURACION
 	
@@ -12,8 +12,8 @@
 	 * define(BASE_RUTA_HTTP, 'http://probancoreact.spin100.com/img/');
 	*/
 	
-	define(BASE_RUTA, '/home/spin100/public_html/SPIN/proBancoReact/img/');
-	define(BASE_RUTA_HTTP, 'http://probancoreact.spin100.com/img/');
+	define("BASE_RUTA", '/home/spin100/public_html/SPIN/proBancoReact/img/');
+	define("BASE_RUTA_HTTP", 'http://probancoreact.spin100.com/img/');
 	
 	// si no tienes clara la ruta fisica, descomenta esto y
 	// usa el plugin, veras el inicio de la ruta que necesitas
